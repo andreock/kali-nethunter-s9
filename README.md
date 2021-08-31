@@ -1,1 +1,1 @@
-info about this project
+Kali Nethunter Kernel
